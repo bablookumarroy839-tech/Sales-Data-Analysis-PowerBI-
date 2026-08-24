@@ -43,7 +43,7 @@ The dashboard helps answer questions such as:
 
 ## 🖼️ Dashboard Preview
 
-"C:\Users\USER-1\Desktop\BABLOO\PROJECT\PANDAS_py\Sales & Data Analysis.PNG"
+![Power BI Sales Dashboard](Dashboard.png
 
 ## 📂 Repository Contents
 
