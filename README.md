@@ -43,7 +43,7 @@ The dashboard helps answer questions such as:
 
 ## 🖼️ Dashboard Preview
 
-![Power BI Sales Dashboard](Dashboard.png
+![Power BI Sales Dashboard](Dashboard.png)
 
 ## 📂 Repository Contents
 
